@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="resin-4-lib">
+    <CLASSES>
+      <root url="file://C:/TomcatWeb/Resin4066/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://C:/TomcatWeb/Resin4066/lib" recursive="false" />
+  </library>
+</component>
